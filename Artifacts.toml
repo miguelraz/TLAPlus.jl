@@ -1,0 +1,6 @@
+#[tla2tools]
+#lazy = true
+
+    #[[tla2tools.download]]
+    #url = "https://tla.msr-inria.inria.fr/tlatoolbox/dist/tla2tools.jar"
+    #sha256 = "4ca7fc70097920a6b4607b527dbe392f9db42af023d3d625189e323f0e44e483"
